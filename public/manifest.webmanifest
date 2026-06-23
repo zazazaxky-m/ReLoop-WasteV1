@@ -1,0 +1,20 @@
+{
+  "name": "ReLoop",
+  "short_name": "ReLoop",
+  "description": "Platform pengelolaan sampah digital untuk pengguna, organisasi, dan pengepul.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#f8fafc",
+  "theme_color": "#16a34a",
+  "lang": "id",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
